@@ -1,4 +1,4 @@
 *~
 *.pyc
 virtualenv.nosync.noindex
-site-python
+site-packages
